@@ -12,7 +12,7 @@
 -->
 
 <p align="center">
-  <img alt="WhisperVideo Banner" src="assets/whispervideo_banner.png" style="width: 100%; max-width: 1200px;" />
+  <img alt="WhisperVideo Banner" src="assets/whispervideo_banner.png" style="width: 50%; max-width: 1200px;" />
 </p>
 
 <p align="center">
