@@ -50,7 +50,7 @@
     </td>
     <td align="center">
       <b>Visually grounded panel</b><br/>
-      <img src="assets/whispervideo_ttbb.png" alt="WhisperVideo panel example" style="width: 100%; max-width: 900px;" />
+      <video src="https://github.com/user-attachments/assets/54432c9e-aac4-4615-8d4f-5547034da72f" alt="WhisperVideo panel example" style="width: 100%; max-width: 900px;" />
     </td>
   </tr>
 </table>
