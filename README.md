@@ -142,6 +142,7 @@ The main results are written under:
 ## 🎓 Citations
 If you find our work helpful, please kindly consider citing our paper. Thank you!
 
+```
 @misc{whispervideo,
     title={WhisperVideo},
     url={https://github.com/showlab/whisperVideo},
@@ -151,3 +152,4 @@ If you find our work helpful, please kindly consider citing our paper. Thank you
     month={January},
     year={2026}
 }
+```
