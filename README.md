@@ -138,3 +138,16 @@ The main results are written under:
 
 - SAM3, WhisperX, TalkNet, and Pyannote: [SAM 3](https://ai.meta.com/sam3), [WhisperX](https://github.com/m-bain/whisperX), [TalkNet](https://github.com/TaoRuijie/TalkNet-ASD), [Pyannote](https://github.com/pyannote/pyannote-audio)
 - Open-source video processing tools: [FFmpeg](https://ffmpeg.org/), [SceneDetect](https://scenedetect.com/)
+
+## 🎓 Citations
+If you find our work helpful, please kindly consider citing our paper. Thank you!
+
+@misc{whispervideo,
+    title={WhisperVideo},
+    url={https://github.com/showlab/whisperVideo},
+    author={Siyuan Hu*, Kevin Qinghong Lin*, Mike Zheng SHOU},
+    publisher    = {Zenodo},
+    version      = {v0.1.0},
+    month={January},
+    year={2026}
+}
