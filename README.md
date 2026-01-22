@@ -25,15 +25,15 @@
   <a href="https://github.com/showlab/whispervideo">
     <img src="https://img.shields.io/github/stars/showlab/whispervideo" alt="stars" style="height: 20px;">
   </a>
-  <a href="https://github.com/showlab/whispervideo/releases">
+  <!-- <a href="https://github.com/showlab/whispervideo/releases">
     <img src="https://img.shields.io/github/v/release/showlab/whispervideo" alt="release" style="height: 20px;">
-  </a>
+  </a> -->
   <a href="https://github.com/showlab/whispervideo/issues">
     <img src="https://img.shields.io/github/issues/showlab/whispervideo" alt="issues" style="height: 20px;">
   </a>
-  <a href="https://github.com/showlab/whispervideo/blob/main/LICENSE">
+  <!-- <a href="https://github.com/showlab/whispervideo/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/showlab/whispervideo" alt="license" style="height: 20px;">
-  </a>
+  </a> -->
 </h4>
 
 ## 🖼️ Demo
